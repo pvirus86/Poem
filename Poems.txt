@@ -6,3 +6,4 @@ Purple
 Green
 Yellow
 Pink
+Maroon

@@ -5,6 +5,7 @@ Blue
 Purple
 Green
 Yellow
+Indigo
 Pink
 Maroon
 
